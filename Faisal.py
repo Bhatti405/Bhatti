@@ -63,7 +63,7 @@ banner = ""
 
 
 
-\x1b[1;91m  _________________________________________________
+
 \x1b[1;91m          GALTI GAND KI TRAH HOTI HY 
 \x1b[1;91m                    DOSRO KI DKHTI HY 
 \x1b[1;91m                            APNI NHI 
